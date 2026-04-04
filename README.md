@@ -63,27 +63,6 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gismo-o&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gismo-o&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gismo-o&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gismo-o&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gismo-o&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
-
 ## ☁️ Google Cloud Experience
 
 Completed hands-on labs in data engineering and cloud technologies (BigQuery, Dataflow, Cloud Run, Datastream, Vertex AI).
@@ -96,15 +75,15 @@ Completed hands-on labs in data engineering and cloud technologies (BigQuery, Da
 
 <p align="center">
   <a href="https://github.com/gismo-o/x-company-rag-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=x-company-rag-chatbot&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gismo-o&repo=x-company-rag-chatbot&theme=tokyonight&hide_border=true"/>
   </a>
-  
+
   <a href="https://github.com/gismo-o/MyPortfolioMvc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=MyPortfolioMvc&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gismo-o&repo=MyPortfolioMvc&theme=tokyonight&hide_border=true"/>
   </a>
-  
+
   <a href="https://github.com/gismo-o/InterviewProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=InterviewProject&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gismo-o&repo=InterviewProject&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
@@ -186,6 +165,20 @@ Completed hands-on labs in data engineering and cloud technologies (BigQuery, Da
 
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gismo-o&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="140"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gismo-o&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gismo-o&theme=tokyonight&hide_border=true&cache_seconds=86400" height="120"/>
+</p>
+
+---
+
 ### 📨 Get in Touch
 <p align="center">
   <a href="https://www.linkedin.com/in/gizemkoz/">LinkedIn</a> •
