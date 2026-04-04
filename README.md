@@ -35,6 +35,12 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gismo-o&theme=tokyonight&hide_border=true" height="140"/>
+</p>
+
+---
+
 ## 🛠 Tech Stack
 <p>
   <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="36"/>
@@ -163,19 +169,6 @@ Completed hands-on labs in data engineering and cloud technologies (BigQuery, Da
 
 </div>
 
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gismo-o&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="140"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gismo-o&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="140"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gismo-o&theme=tokyonight&hide_border=true&cache_seconds=86400" height="120"/>
-</p>
 
 ---
 
