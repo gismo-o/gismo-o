@@ -33,15 +33,14 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
 - 🎓 I am a scholarship recipient at the Artificial Intelligence and Technology Academy, conducted in collaboration with the Ministry of Industry and Technology, where I am completing a Data Analytics program offered through Coursera and gaining hands-on experience in Python, SQL, data analysis, and data visualization.
 - ⚡ My goal is to build scalable and data-driven systems that solve real-world problems.
 
----
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gismo-o&theme=tokyonight&hide_border=true" height="140"/>
 </p>
 
----
 
 ## 🛠 Tech Stack
+---
 <p>
   <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="36"/>
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="36"/>
@@ -67,31 +66,28 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
   <img alt="vs-code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36"/>
 </p>
 
----
 
 ## ☁️ Google Cloud Experience
+---
 
 Completed hands-on labs in data engineering and cloud technologies (BigQuery, Dataflow, Cloud Run, Datastream, Vertex AI).
 
 🔗 https://komtas.qwiklabs.com/public_profiles/1b94d6ae-fe44-4682-977a-2986c0664b47
 
----
 
 ## 🔗 Featured Projects
+---
+- 🤖 **RAG Chatbot**  
+  AI-based chatbot with RAG architecture  
+  🔗 https://github.com/gismo-o/x-company-rag-chatbot  
 
-<p align="center">
-  <a href="https://github.com/gismo-o/x-company-rag-chatbot">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gismo-o&repo=x-company-rag-chatbot&theme=tokyonight&hide_border=true"/>
-  </a>
+- 💼 **Portfolio Website**  
+  ASP.NET MVC personal portfolio project  
+  🔗 https://github.com/gismo-o/MyPortfolioMvc  
 
-  <a href="https://github.com/gismo-o/MyPortfolioMvc">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gismo-o&repo=MyPortfolioMvc&theme=tokyonight&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/gismo-o/InterviewProject">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gismo-o&repo=InterviewProject&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+- 🧪 **Interview Project**  
+  Backend-focused development project  
+  🔗 https://github.com/gismo-o/InterviewProject  
 
 
 ## 🎓 Certifications
