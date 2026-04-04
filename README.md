@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff0080,100:7928ca&height=120&section=header&text=Hi!%20I'm%20Gizem%20İlayda%20Koz&fontSize=28&fontColor=ffffff" />
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/773c0e6b-c674-43cd-b425-e01c46639618" alt="AI" width="250">
+  <img src="https://github.com/user-attachments/assets/773c0e6b-c674-43cd-b425-e01c46639618" alt="AI" width="200">
 </p>
 
 
@@ -23,22 +23,26 @@
 
 ---
 ## 👩‍💻 About Me
-**Computer Engineer · Data Science · AI**  
+**Computer Engineer · AI · Data · Software Development**  
 From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="22" />
 
-- 📊 I develop projects in data science, machine learning, and artificial intelligence, with a focus on building real-world solutions.  
-- 🧠 My interests include Natural Language Processing (NLP), time series forecasting, and deep learning, where I actively explore advanced modeling techniques.  
-- 🛠 I work with Python (Pandas, NumPy, scikit-learn, TensorFlow, PyTorch), SQL (MySQL, Microsoft SQL Server), and C#, applying them to projects in areas like sentiment analysis, RNN-based forecasting, and AI-powered applications.  
-- 🌍 I am an active member of the Kaggle Turkiye Data Science Study Group, contributing by sharing my notes and learnings on GitHub and collaborating with peers.  
+- 💻 I am a Computer Engineer focused on data and software development.
+- 📊 I work on data technologies (SQL, PL/SQL) and focus on building data-driven systems and improving my data analysis skills.
+- 🛠 I develop applications using Java, C#, and Python, working on data-driven and backend systems.
+- 🔍 I closely follow emerging technologies and have developed myself by building projects in artificial intelligence and data science.
+- 🎓 I am a scholarship recipient at the Artificial Intelligence and Technology Academy, conducted in collaboration with the Ministry of Industry and Technology, where I am completing a Data Analytics program offered through Coursera and gaining hands-on experience in Python, SQL, data analysis, and data visualization.
+- ⚡ My goal is to build scalable and data-driven systems that solve real-world problems.
 
 ---
 
 ## 🛠 Tech Stack
 <p>
   <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="36"/>
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="36"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="36"/>
+  <img alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="36"/>
   <img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="36"/>
   <img alt="ef-core" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="36"/>
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="36"/>
   <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="36"/>
   <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="36"/>
   <img alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="36"/>
@@ -60,23 +64,30 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
 ---
 
 ## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gismo-o&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismo-o&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight&hide_border=true" height="160" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=gismo-o&theme=tokyonight&hide_border=true" height="150" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gismo-o&theme=tokyo-night&hide_border=true" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=gismo-o&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gismo-o&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismo-o&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gismo-o&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gismo-o&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gismo-o&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
 ## 🔗 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=MyPortfolioMvc&theme=tokyonight&hide_border=true)](https://github.com/gismo-o/MyPortfolioMvc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=InterviewProject&theme=tokyonight&hide_border=true)](https://github.com/gismo-o/InterviewProject)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=ecommerce-smart-seller-assistant&theme=tokyonight&hide_border=true)](https://github.com/gismo-o/ecommerce-smart-seller-assistant)  
+[![RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=x-company-rag-chatbot&theme=tokyonight&hide_border=true)](https://github.com/gismo-o/x-company-rag-chatbot)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=MyPortfolioMvc&theme=tokyonight&hide_border=true)](https://github.com/gismo-o/MyPortfolioMvc)
+[![Interview Project](https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=InterviewProject&theme=tokyonight&hide_border=true)](https://github.com/gismo-o/InterviewProject)
 
 ---
 
