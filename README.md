@@ -82,6 +82,17 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
 
 
 ## 🎓 Certifications
+---
+
+### ![2026](https://img.shields.io/badge/2025-4CAF50?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+<div align="center">
+  
+<img src="https://github.com/user-attachments/assets/bf487d13-7877-43b7-8fe9-7a2d2c42b169" width="400"/>  
+<img src="https://github.com/user-attachments/assets/60a3f9b0-91a2-425d-b52e-26fc918040a9" width="400"/>  
+
+
+</div>
 
 ---
 
