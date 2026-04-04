@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff0080,100:7928ca&height=120&section=header&text=Hi!%20I'm%20Gizem%20İlayda%20Koz&fontSize=28&fontColor=ffffff" />
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/773c0e6b-c674-43cd-b425-e01c46639618" alt="AI" width="200">
+  <img src="https://github.com/user-attachments/assets/773c0e6b-c674-43cd-b425-e01c46639618" alt="AI" width="100">
 </p>
 
 
@@ -66,8 +66,8 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gismo-o&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismo-o&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gismo-o&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gismo-o&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 <p align="center">
@@ -84,12 +84,29 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
 
 ---
 
-## 🔗 Featured Projects
-[![RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=x-company-rag-chatbot&theme=tokyonight&hide_border=true)](https://github.com/gismo-o/x-company-rag-chatbot)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=MyPortfolioMvc&theme=tokyonight&hide_border=true)](https://github.com/gismo-o/MyPortfolioMvc)
-[![Interview Project](https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=InterviewProject&theme=tokyonight&hide_border=true)](https://github.com/gismo-o/InterviewProject)
+## ☁️ Google Cloud Experience
+
+Completed hands-on labs in data engineering and cloud technologies (BigQuery, Dataflow, Cloud Run, Datastream, Vertex AI).
+
+🔗 https://komtas.qwiklabs.com/public_profiles/1b94d6ae-fe44-4682-977a-2986c0664b47
 
 ---
+
+## 🔗 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/gismo-o/x-company-rag-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=x-company-rag-chatbot&theme=tokyonight&hide_border=true"/>
+  </a>
+  
+  <a href="https://github.com/gismo-o/MyPortfolioMvc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=MyPortfolioMvc&theme=tokyonight&hide_border=true"/>
+  </a>
+  
+  <a href="https://github.com/gismo-o/InterviewProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gismo-o&repo=InterviewProject&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 
 ## 🎓 Certifications
