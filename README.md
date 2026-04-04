@@ -84,7 +84,7 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
 ## 🎓 Certifications
 ---
 
-### ![2026](https://img.shields.io/badge/2025-4CAF50?style=for-the-badge&logo=googlecloud&logoColor=white)
+### ![2026](https://img.shields.io/badge/2026-4CAF50?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 <div align="center">
   
@@ -99,7 +99,13 @@ From **Istanbul, Turkey** <img src="https://upload.wikimedia.org/wikipedia/commo
 ### ![2025](https://img.shields.io/badge/2025-4CAF50?style=for-the-badge&logo=google&logoColor=white)
 
 <div align="center">
-  
+
+<img src="https://github.com/user-attachments/assets/6ce271c6-d0f3-4b9a-9abe-61b565fb34aa" width="400"/>  
+<img src="https://github.com/user-attachments/assets/2f91cefe-7d11-458b-b537-0eede6f2af03" width="400"/>  
+
+<img src="https://github.com/user-attachments/assets/d5ea9dac-01f9-4dd9-b4a7-ef8a21d983ce" width="400"/>  
+<img src="https://github.com/user-attachments/assets/0eaa9da3-eca1-4ba1-9814-ce06989d0cc4" width="400"/>  
+
 <img src="https://github.com/user-attachments/assets/e645c45d-5a36-4994-b239-89bac93f0c80" width="400"/>  
 <img src="https://github.com/user-attachments/assets/bc1fe5d3-44d1-45bf-b31f-3f5d84140e5f" width="400"/>  
 
