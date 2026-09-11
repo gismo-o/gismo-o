@@ -77,6 +77,10 @@ Completed hands-on labs in data engineering and cloud technologies (BigQuery, Da
 
 ## 🔗 Featured Projects
 ---
+- 🌿 **SkinShelf**  
+  Full-stack AI mobile app built with React Native, Java Spring Boot REST API, Supabase, and Agentic RAG architecture  
+  🔗 https://github.com/cerensvr/TMGC-Team
+
 - 🤖 **RAG Chatbot**  
   AI-based chatbot with RAG architecture  
   🔗 https://github.com/gismo-o/x-company-rag-chatbot  
